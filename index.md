@@ -1,0 +1,1 @@
+I am Pavan Kumar Mangalapally, a software engineer (self-certified) by profession with a bachelor’s degree in mechanical engineering major.
