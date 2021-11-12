@@ -1,4 +1,4 @@
 
 #### Contact me at :  
-Email: IShallPublishLater@gmail.com  
+**Email:** IShallPublishLater@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/pmangalapally/)  

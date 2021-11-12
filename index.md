@@ -3,4 +3,3 @@
 [Education](/assets/about/education.md)  
 [Certifications](/assets/about/certifications.md)  
 [Contact](/assets/about/contact-me.md)  
-
