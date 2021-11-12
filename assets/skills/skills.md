@@ -1,4 +1,4 @@
-[Home](\index.md)       [Contact](\assets\about\contact-me.md)  
+[Home](/index.md)       [Contact](/assets/about/contact-me.md)  
 
 #### **Skills**  
 
