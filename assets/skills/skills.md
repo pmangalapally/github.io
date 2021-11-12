@@ -1,3 +1,4 @@
+[Home](\index.md)       [Contact](\assets\about\contact-me.md)  
 
 #### **Skills**  
 
