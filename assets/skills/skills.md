@@ -24,7 +24,7 @@ Linux
  835  
  277U  
  277P  
- 277CA 
+ 277CA  
  MAO-001  
  MAO-002  
  MAO-004  
@@ -49,7 +49,7 @@ Linux
  User Acceptance testing  
  Test results review and approval  
 
-**Analysis:**
+**Analysis:**  
  Requirements analysis  
  Translate business requirements to functional requirements  
 
@@ -62,7 +62,7 @@ Linux
  Trizetto Facets for core administration  
  Trizetto Encounters Data Manager for Medicaid & Medicare Encounters processing
 
-**Healthcare domain:**
+**Healthcare domain:**  
  Member enrollment & eligibility  
  Claims adjudication  
  Encounters execution:  
