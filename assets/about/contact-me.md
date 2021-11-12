@@ -1,4 +1,4 @@
-[Home](\index.md)  
+[Home](/index.md)  
 
 #### Contact me at :  
 Email: IShallPublishLater@gmail.com  
