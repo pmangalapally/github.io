@@ -1,4 +1,4 @@
-[About me](/assets/about/about-me.md)  
+[About](/assets/about/about-me.md)  
 [Skills](/assets/skills/skills.md)  
 [Education](/assets/about/education.md)  
 [Certifications](/assets/about/certifications.md)  
