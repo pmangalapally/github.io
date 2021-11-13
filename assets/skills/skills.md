@@ -1,4 +1,4 @@
-[Home](/index.md) [About](/assets/about/about-me.md) [Skills](/assets/skills/skills.md) [Education](/assets/about/education.md) [Certifications](/assets/about/certifications.md)  [Contact](/assets/about/contact-me.md)  
+[Home](https://pmangalapally.github.io/) [About](/assets/about/about-me.md) [Skills](/assets/skills/skills.md) [Education](/assets/about/education.md) [Certifications](/assets/about/certifications.md)  [Contact](/assets/about/contact-me.md)  
 
 
 #### **Skills**  
@@ -46,4 +46,4 @@ PowerShell and Linux
      *Inbound pipelines* to consume data from source systems such as inhouse/vendor claims adjudication, member, provider data management systems, state and CMS systems for Encounters responses.  
      *Outbound pipelines* to build Encounters for state and CMS submission.
      Supplemental/Internal pipelines
-     Error/fallout management 
+     Error/fallout management  
