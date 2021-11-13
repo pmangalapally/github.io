@@ -6,4 +6,4 @@ I am a lead developer for a geographically distributed team operating in four di
 
 My primary responsibility is to solve problems that we encounter in new project implementations, homegrown applications migration to a third-party Encounter Data Manager platform, application enhancement, maintenance, and day-to-day operations execution.  
 
-I enjoy working with multiple groups to solve challenging problems in an organization. Looking forward to collaborate on open source projects to enhance my skills and build my profressional network.  
+I enjoy working with multiple groups to solve challenging problems in an organization. Looking forward to collaborating on open-source projects to enhance my skills and build my professional network.  
