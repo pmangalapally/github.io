@@ -1,3 +1,6 @@
+[Home](https://pmangalapally.github.io/)
+
+
 I am a technology professional with over 12 years of experience in problem-solving, business analysis, solutions development, process redesign, application implementation, and cost-effective, efficient software solutions. The majority of my experience is within the healthcare payer's Enterprise Core Administration and Enterprise Encounters processing space. This includes experience with Medicaid, Medicare, and Medicare-Medicaid plans. I have provided support and developed solutions in the areas of member enrollment, claims adjudication, and Encounters processing involving both proprietary and X12 Electronic Data Interchange transactions.  
 
 I have worked on both small and large scale applications in AmeriHealth Caritas markets' Encounters processing including building pipelines for inbound and outbound encounter data processing. These applications facilitated secure and successful data exchange routes between AmeriHealth and Encounters processing agencies for state/CMS, subcontractor vendors, and inhouse data producers/consumers.  

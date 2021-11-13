@@ -1,4 +1,11 @@
 [About](/assets/about/about-me.md)  
+**Experience:**  
+- AmeriHealth Caritas, Philadelphia, PA USA (December 2016 to present)
+- Switchlane, Inc, Greater Philadelphia, PA USA (December 2016 to present)
+- Cognizant, Philadelphia, PA USA (December 2016 to present)
+- IBM, Bangalore, Karnataka, India (December 2016 to present)
+- HCL Technologies, Hyderabad, Telangana, India (December 2016 to present)
+- Cognizant, Hyderabad, Telangana, India (December 2016 to present)
 [Skills](/assets/skills/skills.md)  
 [Education](/assets/about/education.md)  
 [Certifications](/assets/about/certifications.md)  
