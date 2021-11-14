@@ -1,6 +1,6 @@
 [Home](https://pmangalapally.github.io/)
 
-**Projects:***  
+**Projects:**  
 Member Enrollment  
 Member Eligibility  
 Member Provider assignment  
