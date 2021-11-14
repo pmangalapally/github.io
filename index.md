@@ -22,7 +22,7 @@
     - Location: Hyderabad, Telangana, India  
     - Designation: Software Engineer    
     - Duration: November 2010 to May 2011  
-- [Cognizant](/assets/experience/2008-cognizant.md)
+- [Cognizant](/assets/experience/2008-cognizant.md)  
     - Location: Hyderabad, Telangana, India  
     - Designation: Programmer Analyst  
     - Duration: November 2008 to October 2010  
