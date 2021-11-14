@@ -26,6 +26,7 @@
     - Location: Hyderabad, Telangana, India  
     - Designation: Programmer Analyst  
     - Duration: November 2008 to October 2010  
+
 [Skills](/assets/skills/skills.md)  
 [Education](/assets/about/education.md)  
 [Certifications](/assets/about/certifications.md)  
