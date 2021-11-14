@@ -9,8 +9,8 @@ Reports remediation for database platform migration
 Trizetto's Facets upgrade  
 Encounters execution  
 Application users reporting and monitoring for security  
-File transfer using PowerShell  
-File archival using PowerShell  
+File transfer batch job  
+File archival batch job    
 Windows Service control and monitoring  
 File compression  
 Extract Transform Load operations using SQL Server Integration Services (SSIS)  
