@@ -1,24 +1,24 @@
 [About](/assets/about/about-me.md)  
 **Experience:**  
-- AmeriHealth Caritas  
+- [AmeriHealth Caritas](/assets/exp/2016-ahc.md)  
     - Location: Philadelphia, PA USA  
     - Designation: Lead Developer  
     - Duration: June 2020 to present    
     - Designation: Programmer Analyst Senior  
     - Duration: December 2016 to June 2020  
-- Switchlane, Inc  
+- [Switchlane, Inc](/assets/exp/2015-stl.md)  
     - Location: Greater Philadelphia, PA USA  
     - Designation: Software Developer    
     - Duration: June 2015 to December 2016  
-- Cognizant  
+- [Cognizant](/assets/exp/2012-cts.md)  
     - Location: Philadelphia, PA USA  
     - Designation: Product Specialist  
     - Duration: June 2012 to June 2015  
-- IBM  
+- [IBM](/assets/exp/2011-ibm.md)  
     - Location: Bangalore, Karnataka, India  
     - Designation: Facets Reporting Analyst  
     - Duration: May 2011 to June 2012  
-- HCL Technologies  
+- [HCL Technologies](/assets/exp/2010-hcl.md)  
     - Location: Hyderabad, Telangana, India  
     - Designation: Software Engineer    
     - Duration: November 2010 to May 2011  
