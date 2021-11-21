@@ -21,3 +21,5 @@ Proprietary files consumption from vendors and Medicaid/Medicare Encounters proc
 837 x12 compliance processes for outboudn and inbound files  
 999 responses for outbound and inbound files    
 Vendor specific response delivery for Encounters response received from Medicaid/Medicare Encounters processing agencies   
+**States***
+Delaware, Florida, Kentucky, Lousiana, Michigan, New Hampshire, New Jersey, North Carolina, Pennsylvania, South Carolina, Washington District Of Columbia. 
