@@ -32,5 +32,5 @@ $10 million one time saving by reconciling source clains against Encounters subm
 Reconciliation uncovered a buch of problems in claims adjudication and Enterprise Data Warehouse systems.   
 $70K per year saving by automating manual activities in a legacy home-grown application at the time of reinsurance application migration to OpenTwins application.  
 40% (~400)of batch jobs eliminated by redesigning applications. This is a great relief for Technology Operations team.  
-
+Current state systems assessment and future (to be) state systems recommendations.
 
