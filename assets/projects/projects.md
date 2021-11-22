@@ -27,9 +27,9 @@ Tool to change import id in EDM proprietary files to expidite unit testing EDM  
 Testing automation for 837 File complaince, Inbound file translation proprietary files to load into Enterprise Data WareHouse and Encounters staging database.  
 
 **States:**  
-Delaware, Florida, Kentucky, Lousiana, Michigan, New Hampshire, New Jersey, North Carolina, Pennsylvania, South Carolina, Washington District Of Columbia.   
+Delaware, Florida, Kentucky, Louisiana, Michigan, New Hampshire, New Jersey, North Carolina, Pennsylvania, South Carolina, Washington District of Columbia.  
 **Training:**
-Trained 15 programmers/developers to use open source git souce code (version) control system with deatiled relese strategy documentation.   
+Trained 15 programmers/developers to use open-source git source code (version) control system with detailed release strategy documentation.  
 
 **Achievements:**  
 $10 million one time saving by reconciling source clains against Encounters submitted to submit unprocessed and resubmit rejected Encounters with corrected informaation to meet State defined completeness and accuracy SLAs.   
