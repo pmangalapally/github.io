@@ -41,7 +41,7 @@ PowerShell and Linux
  Trizetto Facets for core administration and Trizetto Encounters Data Manager for Medicaid & Medicare Encounters processing
 
 **Healthcare domain:**  
- Core Administration: Memeber Enrollment & eligibility, Claims adjudication  
+ Core Administration: Member Enrollment & eligibility, Claims adjudication  
  Encounters execution:  
      *Inbound pipelines* to consume data from source systems such as inhouse/vendor claims adjudication, member, provider data management systems, state and CMS systems for Encounters responses.  
      *Outbound pipelines* to build Encounters for state and CMS submission.
