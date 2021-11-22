@@ -22,6 +22,9 @@ Proprietary files consumption from vendors and Medicaid/Medicare Encounters proc
 999 responses for outbound and inbound files    
 Vendor specific response delivery for Encounters response received from Medicaid/Medicare Encounters processing agencies   
 Encounter Data pipelines for CMS Interoperability Patient Access API implementation  
+837 Claim data comparision between files generated between home-grown and EDM applications. This tool was extensively used at the time of home grown application migration to EDM product.  
+Tool to change import id in EDM proprietary files to expidite unit testing EDM  product and customizations.  
+Testing automation for 837 File complaince, Inbound file translation proprietary files to load into Enterprise Data WareHouse and Encounters staging database.  
 
 **States:**  
 Delaware, Florida, Kentucky, Lousiana, Michigan, New Hampshire, New Jersey, North Carolina, Pennsylvania, South Carolina, Washington District Of Columbia.   
@@ -34,4 +37,5 @@ Reconciliation uncovered a buch of problems in claims adjudication and Enterpris
 $70K per year saving by automating manual activities in a legacy home-grown application at the time of reinsurance application migration to OpenTwins application.  
 40% (~400)of batch jobs eliminated by redesigning applications. This is a great relief for Technology Operations team.  
 Current state systems assessment and future (to be) state systems recommendations.
-
+Get claims, Encounters volume and $ summary.  
+Redesign Encounters Data Proecessing System applications to improve acceptance by 18% in initial submission. Resubmission cost $360,000 (2 resources * 1800 hours * $100) per year cost savings.   
