@@ -25,6 +25,12 @@ Encounter Data pipelines for CMS Interoperability Patient Access API implementat
 837 Claim data comparision between files generated between home-grown and EDM applications. This tool was extensively used at the time of home grown application migration to EDM product.  
 Tool to change import id in EDM proprietary files to expidite unit testing EDM  product and customizations.  
 Testing automation for 837 File complaince, Inbound file translation proprietary files to load into Enterprise Data WareHouse and Encounters staging database.  
+Batch jobs design   
+Incident management process.  
+Data Center Migration   
+Facets Database migrtion from Sybase to SQL Server   
+Data assets for low-code, cloud-based Business process management (BPM) product Appian to build necessary workflows for Enterprise Encounter (Error) Management.  
+Utility scripts for Operations team test data setup, validation and eliminate repeated manual day to day activities.  
 
 **States:**  
 Delaware, Florida, Kentucky, Louisiana, Michigan, New Hampshire, New Jersey, North Carolina, Pennsylvania, South Carolina, Washington District of Columbia.  
