@@ -11,3 +11,6 @@ Strong understanding and experience in Product Engineering using Agile & Devops 
 Strong leadership capabilities across multiple dimensions to influence strategy, inspire teams, collaborate & navigate organizational boundaries and deliver results. I have created 8+ new service offerings for Cognizant HC business practice and have also played a key role in the formation / scaling of Medicare & Medicaid Service Line within Cognizant.
 
 Competencies: Digital Transformation | Data Modernization | Product Engineering | Healthcare Products and Platforms (TriZetto FACETS suite) | Process Improvements | P&L Management | Business Development | Global Service Delivery.  
+
+**LinkedIn headings:** 
+Helping Healthcare Payers transform/optimize Provider Data Management. 
