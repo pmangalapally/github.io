@@ -31,6 +31,7 @@ Data Center Migration
 Facets Database migrtion from Sybase to SQL Server   
 Data assets for low-code, cloud-based Business process management (BPM) product Appian to build necessary workflows for Enterprise Encounter (Error) Management.  
 Utility scripts for Operations team test data setup, validation and eliminate repeated manual day to day activities.  
+Trizetto's Encounter Data Manager product new instance setup and upgrades.  
 
 **States:**  
 Delaware, Florida, Kentucky, Louisiana, Michigan, New Hampshire, New Jersey, North Carolina, Pennsylvania, South Carolina, Washington District of Columbia.  
