@@ -23,14 +23,14 @@ Proprietary files consumption from vendors and Medicaid/Medicare Encounters proc
 Vendor-specific response delivery for Encounters response received from Medicaid/Medicare Encounters processing agencies   
 Encounter Data pipelines for CMS Interoperability Patient Access API implementation  
 837 Claim data comparison between files generated between home-grown and EDM applications. This tool was extensively used at the time of homegrown application migration to EDM product.  
-Tool to change import id in EDM proprietary files to expedite unit testing EDM  product and customizations.  
+Tool to change import ID in EDM proprietary files to expedite unit testing EDM product and customizations.  
 Testing automation for 837 File compliance, Inbound file translation proprietary files to load into Enterprise Data Warehouse and Encounters staging database.  
 Batch jobs design   
 Incident management process.  
 Data Center Migration   
 Facets Database migration from Sybase to SQL Server   
 Data assets for low-code, cloud-based Business process management (BPM) product Appian to build necessary workflows for Enterprise Encounter (Error) Management.  
-Utility scripts for Operations team test data setup, validation and eliminate repeated manual day-to-day activities.  
+Utility scripts for Operations team test data setup, and validation and eliminate repeated manual day-to-day activities.  
 Trizetto's Encounter Data Manager product new instance setup and upgrades.
 #metricsmatter - Built/assisted pipelines for data summarizations for several dashboards, examples are Encounters rolling 24th months summary, Trend dashboard for executives to view claims, encounters trends & Enterprise Encounters Error Management completeness, timeliness, accuracy, and rejections/scrubs dashboards.
 you can't manage what you can't measure.
@@ -40,6 +40,16 @@ EDM files are generated and cleaned up for file generation for data corrections 
 
 According to HIPAA guidelines we are required to send vendor-specific responses to vendors. Developed a custom process to identify vendor files/content by NCPDP D.0 file batch id between vendor inbound and response file from state, or date of service, or by looking up claim id prefixes. 
 
+**Vendors/Subcontractors:**  
+  **Vision:** Avesis, DavisVision Premier & VSP.
+  **Lab:** LabCorp & JVHL.
+  **Dental:** Scion/SkyGen, Avesis, DinalDental, DentaQuest & Dencap.
+  **Transportation:** MTM, Access2Care, LYFT, Southeastrans/Verida, Coordinated Transportation Solutions (CTS) & Logisticare/ModivCare.
+  **Hearing:** HearUSA.
+  **Behavioral Health:** Optum.
+  **Nursing Facilities:** Coastal Care.
+  **Pharmacy:** Abarca, DST Pharmacy Solutions (formerly Argus Health), SS&C Health, Magellan Rx, PerformRx
+  **Other:** PPL (Public Partnerships LLC).
 
 
 **States:**  
