@@ -40,16 +40,16 @@ EDM files are generated and cleaned up for file generation for data corrections 
 
 According to HIPAA guidelines we are required to send vendor-specific responses to vendors. Developed a custom process to identify vendor files/content by NCPDP D.0 file batch id between vendor inbound and response file from state, or date of service, or by looking up claim id prefixes. 
 
-**Vendors/Subcontractors:**  
-  **Vision:** Avesis, DavisVision Premier & VSP.
-  **Lab:** LabCorp & JVHL.
-  **Dental:** Scion/SkyGen, Avesis, DinalDental, DentaQuest & Dencap.
-  **Transportation:** MTM, Access2Care, LYFT, Southeastrans/Verida, Coordinated Transportation Solutions (CTS) & Logisticare/ModivCare.
-  **Hearing:** HearUSA.
-  **Behavioral Health:** Optum.
-  **Nursing Facilities:** Coastal Care.
-  **Pharmacy:** Abarca, DST Pharmacy Solutions (formerly Argus Health), SS&C Health, Magellan Rx, PerformRx
-  **Other:** PPL (Public Partnerships LLC).
+**Vendors/Subcontractors:**   
+  **Vision:** Avesis, DavisVision Premier & VSP.  
+  **Lab:** LabCorp & JVHL.  
+  **Dental:** Scion/SkyGen, Avesis, DinalDental, DentaQuest & Dencap.  
+  **Transportation:** MTM, Access2Care, LYFT, Southeastrans/Verida, Coordinated Transportation Solutions (CTS) & Logisticare/ModivCare.  
+  **Hearing:** HearUSA.  
+  **Behavioral Health:** Optum.  
+  **Nursing Facilities:** Coastal Care.   
+  **Pharmacy:** Abarca, DST Pharmacy Solutions (formerly Argus Health), SS&C Health, Magellan Rx, PerformRx.  
+  **Other:** PPL (Public Partnerships LLC).  
 
 
 **States:**  
