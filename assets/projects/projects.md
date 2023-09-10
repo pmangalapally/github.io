@@ -51,9 +51,11 @@ According to HIPAA guidelines we are required to send vendor-specific responses 
   **Pharmacy:** Abarca, DST Pharmacy Solutions (formerly Argus Health), SS&C Health, Magellan Rx, PerformRx.  
   **Other:** PPL (Public Partnerships LLC).  
 
+**Line Of Businesses:**  
+Medicaid, Medicare, Medicare-Medicaid, Exchanges, Children's Health Insurance Program (CHIP) and Third Party Administration.  
 
 **States:**  
-Delaware, Florida, Kentucky, Louisiana, Michigan, New Hampshire, New Jersey, North Carolina, Pennsylvania, South Carolina, and Washington District of Columbia.  
+Delaware, Florida, Kentucky, Louisiana, Michigan, New Hampshire, New Jersey, North Carolina, Pennsylvania, South Carolina, Ohio, and Washington District of Columbia.  
 **Training:**
 Trained 15 programmers/developers to use an open-source git source code (version) control system with detailed release strategy documentation.  
 
