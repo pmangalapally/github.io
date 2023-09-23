@@ -31,10 +31,10 @@ Data Center Migration
 Facets Database migration from Sybase to SQL Server   
 Data assets for low-code, cloud-based Business process management (BPM) product Appian to build necessary workflows for Enterprise Encounter (Error) Management.  
 Utility scripts for Operations team test data setup, and validation and eliminate repeated manual day-to-day activities.  
-Trizetto's Encounter Data Manager product new instance setup and upgrades.
-#metricsmatter - Built/assisted pipelines for data summarizations for several dashboards, examples are Encounters rolling 24th months summary, Trend dashboard for executives to view claims, encounters trends & Enterprise Encounters Error Management completeness, timeliness, accuracy, and rejections/scrubs dashboards.
-you can't manage what you can't measure.
-Differentiate data vs quality/good data.
+Trizetto's Encounter Data Manager product new instance setup and upgrades.  
+#metricsmatter - Built/assisted pipelines for data summarizations for several dashboards, examples are Encounters rolling 24th months summary, Trend dashboard for executives to view claims, encounters trends & Enterprise Encounters Error Management completeness, timeliness, accuracy, and rejections/scrubs dashboards.  
+you can't manage what you can't measure.  
+Differentiate data vs quality/good data.  
 Automation: Identify terminated employees' EDM logins by looking up EDM login (email/network id) against Active Directory to term in EDM as well.
 EDM files are generated and cleaned up for file generation for data corrections and generate files. The previous set of files and new files submissions resulted in duplicate rejections at the Encounters processing agency. Developed a process to scan for files in a configured directory recursively with matching file name regex and lookup those file names (in some cases we read Interchange Control# from ISA13) against the database table to move invalid files to a different directory and notified users.
 
