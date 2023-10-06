@@ -39,7 +39,7 @@ Automation: Identify terminated employees' EDM logins by looking up EDM login (e
 EDM files are generated and cleaned up for file generation for data corrections and generate files. The previous set of files and new files submissions resulted in duplicate rejections at the Encounters processing agency. Developed a process to scan for files in a configured directory recursively with matching file name regex and lookup those file names (in some cases we read Interchange Control# from ISA13) against the database table to move invalid files to a different directory and notified users.
 
 Enrollment Consolidated Inventory Control System.
-
+Workflow Inventory Reconciliation Enrollment System (WIRES) - Words changed in the name to make up the acronym. The purpose of application is to maintain Enrollment error reconciliation.
 
 According to HIPAA guidelines we are required to send vendor-specific responses to vendors. Developed a custom process to identify vendor files/content by NCPDP D.0 file batch id between vendor inbound and response file from state, or date of service, or by looking up claim id prefixes. 
 
