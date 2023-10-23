@@ -39,9 +39,19 @@ Automation: Identify terminated employees' EDM logins by looking up EDM login (e
 EDM files are generated and cleaned up for file generation for data corrections and generate files. The previous set of files and new files submissions resulted in duplicate rejections at the Encounters processing agency. Developed a process to scan for files in a configured directory recursively with matching file name regex and lookup those file names (in some cases we read Interchange Control# from ISA13) against the database table to move invalid files to a different directory and notified users.
 
 Enrollment Consolidated Inventory Control System.
-Workflow Inventory Reconciliation Enrollment System (WIRES) - Words changed in the name to make up the acronym. The purpose of application is to maintain Enrollment error reconciliation.
+Workflow Inventory Reconciliation Enrollment System (WIRES) - Words changed in the name to make up the acronym. The purpose of the application is to maintain Enrollment error reconciliation.
 
-According to HIPAA guidelines we are required to send vendor-specific responses to vendors. Developed a custom process to identify vendor files/content by NCPDP D.0 file batch id between vendor inbound and response file from state, or date of service, or by looking up claim id prefixes. 
+According to HIPAA guidelines we are required to send vendor-specific responses to vendors. Developed a custom process to identify vendor files/content by NCPDP D.0 file batch ID between vendor inbound and response file from state, or date of service, or by looking up claim ID prefixes. 
+
+Migrated all of the Encounter department's in-house file transfer applications that non-AmeriHealth entities are involved to the IBM Sterling File Gateway product. Advantages are:  
+  1) Easy to onboard new trading partners (producer/consumer).  
+  2) Duplicate check feature based on file name or content. A number of days to look for duplicate criteria can be configured.
+  3) Seamless file deliveries from source to multiple destinations.  
+  4) Ability to zip (compress)/ unzip (decompress), and rename files.
+  5) Better alert, tracking, reporting, and analytics systems.
+  6) Ability to customize scanner/file watcher run time for individual routes.
+  7) Regular expressions are used for file name search expressions (file mask).
+The background of the onboarding tool was batch jobs and manual interventions resulted in missing SLAs and sometimes assumed file was delivered to agencies.
 
 **Vendors/Subcontractors:**   
   **Vision:** Avesis, DavisVision Premier & VSP.  
