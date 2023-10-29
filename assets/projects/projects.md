@@ -61,6 +61,12 @@ The background of the onboarding tool was batch jobs and manual interventions re
   
   3) Data pipelines for EEM's Appian workflow system: Developed data pipelines to bring errors (rejected encounters) & scrubs (drops due to validation failures) from multiple source systems to a single system for building a workflow system for the error remediation process.  
      
+**Disaster Recovery Orchestration & Testing:**
+  1) Orchestrated Disaster Recovery for Encounters (EDM, SPE, and Encounters legacy) applications.
+  2) Assisted the DR team in developing disaster recovery workflows using the IBM Resiliency Orchestration product.
+  3) United tested workflows, automated failback, failover validations & IBM RO's fallback scripts using PowerShell.
+  4) Collaborated with PCE, NOC, AD, DR, MFT, SQL DBAs & QA teams during DR testing activities.
+  5) Yearly 4 times (2x production and 2x non-production).
 
 **Vendors/Subcontractors:**   
   **Vision:** Avesis, DavisVision Premier & VSP.  
